@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: notificationmanagement
-          image: skcc12acr.azurecr.io/notificationmanagement:latest
+          image: skcc14acr.azurecr.io/notificationmanagement:latest
           ports:
             - containerPort: 8080
